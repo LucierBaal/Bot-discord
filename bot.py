@@ -8,7 +8,7 @@ import json
 Client = discord.Client() #Initialise Client
 client = commands.Bot(command_prefix = "") #Initialise client bot, we have two prefixes, so yeah, no need to use
 
-token = "NDQ4OTYzMTUyOTc0MTg0NDY4.DfIajw.gVAbHcnWZSwJpzl2PeZ6dHrI7xw"
+token = "NDU1MzY0MTI1MDUzMTU3Mzg2.Df66mw.2XyafD2HUkRb6ly-Np4UH2UM2SE"
 
 # statics
 ban = "BANANO"
